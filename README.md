@@ -60,9 +60,6 @@ I'm after **new-grad / early-career roles** where I can take agentic AI from dem
 - 💼 **Agentic AI Research Intern @ TCS** — built a multi-agent system that automated package migration across Azure & GCP
 - 🎓 **Achiever Award** — top student in the AI & ML department
 
-## 🎬 Off the clock
-
-Deep in a horror/thriller binge — *FROM*, *The Conjuring*, *Money Heist* — with Tamil cinema soundtracks running in the background. The build never really stops.
 
 ## 🤝 Let's connect
 
@@ -73,9 +70,3 @@ Deep in a horror/thriller binge — *FROM*, *The Conjuring*, *Money Heist* — w
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadhirvel-m)
 
 📍 Chennai, India · open to relocate
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:10b981&height=120&section=footer" width="100%" alt="footer" />
-</div>
