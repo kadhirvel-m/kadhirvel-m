@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-Agentblazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agentblazer Champion" />
+  <img src="https://img.shields.io/badge/Agentblazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agentblazer Champion" />
   <img src="https://img.shields.io/badge/Founder-PaperX-10b981?style=for-the-badge" alt="Founder PaperX" />
   <img src="https://img.shields.io/badge/Open%20to-New%20Grad%20Roles-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Open to New Grad Roles" />
 </p>
