@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:0d9488&height=200&section=header&text=Kadhirvel%20M&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=I%20build%20AI%20agents%20that%20do%20the%20work&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:10b981,100:34d399&height=150&section=header&text=Kadhirvel%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=I%20build%20AI%20agents%20that%20do%20the%20work&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/kadhirvel-m">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineer;Multi-Agent+Systems+%E2%80%A2+Agentic+RAG+%E2%80%A2+MCP;Founder+%40+PaperX+%E2%80%94+4%2C200%2B+students;Salesforce+Agentblazer+Champion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Multi-Agent+Systems+%E2%80%A2+Agentic+RAG+%E2%80%A2+MCP;Founder+%26+Lead+Engineer+%40+PaperX;Taking+agentic+AI+from+demo+to+production" alt="Typing SVG" />
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-Agentblazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agentblazer Champion" />
+  <img src="https://img.shields.io/badge/Founder-PaperX-10b981?style=for-the-badge" alt="Founder PaperX" />
+  <img src="https://img.shields.io/badge/Open%20to-New%20Grad%20Roles-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Open to New Grad Roles" />
+</p>
 
 </div>
 
@@ -25,26 +31,22 @@ I'm after **new-grad / early-career roles** where I can take agentic AI from dem
 ## 🛠️ What I actually reach for
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Agentic & GenAI**  
 ![AutoGen](https://img.shields.io/badge/AutoGen-2C2C54?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**ML / Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**ML & Backend**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Backend & Data**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Cloud**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-**Cloud & Ops**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 By the numbers
+## 📊 Most-used languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kadhirvel-m&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=10b981&icon_color=17d27a&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadhirvel-m&layout=compact&hide_border=true&langs_count=8&title_color=10b981&text_color=c9d1d9&bg_color=0d1117" height="165" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadhirvel-m&layout=compact&hide_border=true&langs_count=8&title_color=10b981&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 
 </div>
 
